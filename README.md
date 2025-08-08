@@ -7,7 +7,9 @@ Support for submitted paper:
 ## Analysis Scripts
 
 Analysis for real biosignature data: `bio_local_npdr.R.`
+<p>
 Analysis for simulated data: `sim_local_npdr.R.`
+<p>
 Scripts need functions sourced from `local_npdr_functions.R.` These will be added to npdr library.
 
 ## Installation
