@@ -1,0 +1,2 @@
+mtry,splitrule,min.node.size,Accuracy,ntrees
+26,extratrees,6,0.8125,3000
