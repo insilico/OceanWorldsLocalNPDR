@@ -1,0 +1,2 @@
+mtry,splitrule,min.node.size,Accuracy,ntrees
+35,hellinger,7,0.885714285714286,3000
